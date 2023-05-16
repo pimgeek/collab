@@ -1,6 +1,5 @@
 ---
 title: 提问 New Bing：适合小团队使用的协作文档管理系统（基于 GitHub / GitLab）
-layout: post
 ---
 
 问答背景：我希望寻找一个基于 GitHub 或 GitLab 的协作文档管理系统，希望它提供网页或客户端协作编辑和冲突解决功能，并且尽可能免费易上手。
