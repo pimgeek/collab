@@ -1,6 +1,5 @@
 ---
 title: 协同创作实验室·Collab
-theme: minima
 timezone: UTC
 collections:
   posts:
@@ -9,3 +8,4 @@ collections:
   uploads:
     title: Uploads
     output: true
+theme: minima
