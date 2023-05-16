@@ -1,8 +1,9 @@
 ---
 title: 提问 New Bing：适合小团队使用的协作文档管理系统（基于 GitHub / GitLab）
+published: true
 ---
 
-问答背景：我希望寻找一个基于 GitHub 或 GitLab 的协作文档管理系统，希望它提供网页或客户端协作编辑和冲突解决功能，并且尽可能免费易上手。
+问答背景：我希望寻找一个基于 GitHub 或 GitLab 的协作文档管理系统，希望它提供网页或客户端协作编辑和冲突解决功能，并且尽可能免费易上手。为确保 New Bing 的回答质量，专门把想法翻译成英文，直接用英文发起提问，然后再把问答记录翻译成中文供参考。
 
 Do you know any collaborative document system built on top of GitHub or GitLab? My 3-people team want to co-author some research documents on it and we have very limited budget (so we have to rely on GitHub / GitLab)
 
@@ -40,4 +41,4 @@ Thanks for your valuable and helpful information, it saves me a lot of time stru
 
 > New Bing: You’re welcome! I’m glad I could help. Don’t hesitate to reach out if you have any other questions or concerns. Have a great day!
 >
-> 参考译文：不客气! 我很高兴我能提供帮助。如果你有任何其他问题或担忧，不要犹豫，请联系我们。祝你有一个美好的一天!
+> 参考译文：不客气! 很高兴能帮到你。如果你有任何其他问题，请不要犹豫直接联系我。祝你度过愉快的一天！
